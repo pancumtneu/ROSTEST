@@ -1,0 +1,35 @@
+脚本启动于 2018年10月19日 星期五 21时34分57秒
+]0;apollo@apollo: ~[01;32mapollo@apollo[00m:[01;34m~[00m$ ls
+\              [0m[01;34mAutogithubio[0m      [01;34minstall[0m   [01;34mros[0m    typescript  [01;34m视频[0m  [01;34m下载[0m
+[01;34mApollo[0m         examples.desktop  log.txt   [01;34mtest[0m   [01;34m公共的[0m      [01;34m图片[0m  [01;34m音乐[0m
+[01;34mapollo-master[0m  example.txt       [01;34mPlatform[0m  [01;34mtest1[0m  [01;34m模板[0m        [01;34m文档[0m  [01;34m桌面[0m
+]0;apollo@apollo: ~[01;32mapollo@apollo[00m:[01;34m~[00m$ dir
+\\	       Autogithubio	 install   ros	  typescript  视频  下载
+Apollo	       examples.desktop  log.txt   test   公共的      图片  音乐
+apollo-master  example.txt	 Platform  test1  模板	      文档  桌面
+]0;apollo@apollo: ~[01;32mapollo@apollo[00m:[01;34m~[00m$ ifconfig
+enp0s31f6 Link encap:以太网  硬件地址 30:5a:3a:45:f1:23  
+          inet 地址:219.216.98.219  广播:219.216.98.255  掩码:255.255.255.0
+          inet6 地址: 2001:da8:9000:a361:9dc:783a:9f4e:c0ed/64 Scope:Global
+          inet6 地址: 2001:da8:9000:a361:a427:f66e:bd3:5138/64 Scope:Global
+          inet6 地址: fe80::8582:9d14:439f:c4cd/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  跃点数:1
+          接收数据包:643146 错误:0 丢弃:0 过载:0 帧数:0
+          发送数据包:444599 错误:0 丢弃:0 过载:0 载波:0
+          碰撞:0 发送队列长度:1000 
+          接收字节:925400523 (925.4 MB)  发送字节:45675436 (45.6 MB)
+          中断:16 Memory:d3200000-d3220000 
+
+lo        Link encap:本地环回  
+          inet 地址:127.0.0.1  掩码:255.0.0.0
+          inet6 地址: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  跃点数:1
+          接收数据包:3656 错误:0 丢弃:0 过载:0 帧数:0
+          发送数据包:3656 错误:0 丢弃:0 过载:0 载波:0
+          碰撞:0 发送队列长度:1000 
+          接收字节:550190 (550.1 KB)  发送字节:550190 (550.1 KB)
+
+]0;apollo@apollo: ~[01;32mapollo@apollo[00m:[01;34m~[00m$ exit
+exit
+
+脚本完成，于 2018年10月19日 星期五 21时35分09秒
